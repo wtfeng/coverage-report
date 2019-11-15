@@ -1,0 +1,4 @@
+# Project exclude paths
+/coverage-report-core/target/
+/coverage-report-web/target/
+/target/
